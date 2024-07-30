@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="218373fb-3806-4839-a531-a54af357ccb2"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ValidateCookie"
+	namespace="HBTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<validationitem
+		action="AttributeEqual"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		searchpropertyid="139817cc-a1f7-45c5-b57b-832c4acc7972"
+		similarity="1">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="3285b6ef-e91f-48ea-9fe2-269f532a33f8"
+			sourcename="ElementTree">
+				<element
+				capabilities="webelement, buttontag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="buttontag"
+				rect="1715,1010,125,42"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						onetrust-accept-btn-handler
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Kabul et
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						button
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						submit
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='www.hepsiburada.com']//button[#'onetrust-accept-btn-handler']
+				</path>
+				<robustPath>
+					/dom[@domain='www.hepsiburada.com']//button[#'onetrust-accept-btn-handler']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="933344ef-9215-4a6a-9762-e72d336b5345">
+				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
+hRRRQA+P734VeqjH978KvVy1fiNsP8Uvl+olFFFZnWFKODkcGkooAduYEkM2T1OetBkkIwZH/wC+
+jTaKLsVkOLu2NzsccjJPFL5kh6yP/wB9GmUUXYWQoYqcqxB9QeaUO4JIdsnqcnmm0UXCwUUUUDCi
+iigCK4+6n+9/Q1Vb7x+tWrj7qf739DVVvvH61vSOCr/FfoJRRRW5IUUUUAFFFFADk706mp3p1ABR
+RRQBHRRRQAUUUUAFFFFABRRRQAUUUUAOQgHmpPNb/nqfyH+FQ0VDgm7smzvdNom85v8AnqfyH+FH
+nN/z1P5D/CoaKXs0P3v5n95N5zf89T+Q/wAKPOb/AJ6n8h/hUNFHs0HvfzP7ybzm/wCep/If4Uec
+3/PU/kP8Khoo9mg97+Z/eTec3/PU/kP8KPOb/nqfyH+FQ0UezQe9/M/vJvOb/nqfyH+FHnN/z1P5
+D/CoaKPZoPe/mf3k3nN/z1P5D/Cjzm/56n8h/hUNFHs0HvfzP7ybzm/56n8h/hR5zf8APU/kP8Kh
+oo9mg97+Z/eSmTcRucnHtUZ5JpKKpRSElrdu4UUUVRQUUUUAFFFFADk706mp3p1ABRRRQBHRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABR
+RRQAUUUUAOTvWhFfRpZmM2sLTDhZCg6e/qf8/XPTvTqACiiigD//2Q==
+			</helperscreenshot>
+			<matchname>
+				InnerText
+			</matchname>
+			<matchvalue>
+				Kabul et
+			</matchvalue>
+		</validationitem>
+	</recorditems>
+	<repository
+	id="466ef776-24ab-4c74-a81d-214a080e976a"
+	name="HBTestRepository"
+	relativepath="HBTestRepository.rxrep">
+		<codegen
+		classname="HBTestRepository"
+		namespace="HBTest">
+		</codegen>
+		<rootfolder
+		id="bb970b4c-a5b4-4b82-b445-0fe51f2dbcca"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ValidateCookie.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

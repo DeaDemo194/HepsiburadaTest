@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="07382084-848f-4a90-9162-424250a7f44b"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="HBTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="KillProcess"
+		optional="False"
+		searchpropertyid="f26469ea-7b4e-4e57-a4e2-6b247d58cb44">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="0bce88dc-8814-4a00-af61-c62de9b53c4b"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="466ef776-24ab-4c74-a81d-214a080e976a"
+	name="HBTestRepository"
+	relativepath="HBTestRepository.rxrep">
+		<codegen
+		classname="HBTestRepository"
+		namespace="HBTest">
+		</codegen>
+		<rootfolder
+		id="bb970b4c-a5b4-4b82-b445-0fe51f2dbcca"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="HBTest"
+      id="8e6c583a-0ce1-4ea5-ae90-df36583bead1"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="HBTest"
+      id="8e6c583a-0ce1-4ea5-ae90-df36583bead1"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

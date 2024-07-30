@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="71542508-d244-4810-b67f-8e141378a298"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="RemovingFromWishlist"
+	namespace="HBTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="14;10"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="c5413c73-7d9e-4f77-855e-e61976f75558"
+		sx="998"
+		sy="925"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="8d500d76-c261-4f95-bc70-571b9ee6cf53"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, divtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="0"
+				prefcap="divtag"
+				rect="984,915,25,25"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						customerAccount-Like-2wPzH
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						customerAccount-Like-2wPzH
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						div
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='www.hepsiburada.com']//div[#'favoriteContainerInner']/div/div/div/div/div[1]/div[1]
+				</path>
+				<robustPath>
+					/dom[@domain='www.hepsiburada.com']//div[#'favoriteContainerInner']/div/div/div/div/div[1]/div[1]
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="51db7218-dd39-4e9f-a350-4e76cb340f7f">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<validationitem
+		action="AttributeEqual"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		searchpropertyid="c94a3f8e-e4ab-47c1-a227-a8b9b6630276"
+		similarity="1">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="8a1fad16-c9f2-4b84-901f-778be3044327"
+			sourcename="ElementTree">
+				<element
+				capabilities="webelement, divtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="0"
+				prefcap="divtag"
+				rect="1623,133,185,24"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						hb-toast-text
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						&#10;                        &#220;r&#252;n listenizden &#231;&#305;kar&#305;ld&#305;.
+                   &#32;
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						hb-toast-text
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						div
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='www.hepsiburada.com']/body/div[9]//div[@innertext&gt;'                        &#220;r&#252;n']
+				</path>
+				<robustPath>
+					/dom[@domain='www.hepsiburada.com']//div[@innertext&gt;'                        &#220;r&#252;n']
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="d9f27411-05c7-48bf-82b7-c32729777448">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCABhAVADASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAopKKAFopKKAFopKWgAooooAKZLKsSFm6U81R1E/6sduf6UpOyuTN2VyaC487d8u3b
+jvU2apaf/wAtPw/rVypi20TBtxuxc0ZpKKosXNGaSigBc0ZpKKAFzRmkooAXNGaSigBc0ZpKKAFz
+RmkooAXNGaSigBc0ZpKKAFzRmkooAXNGaSigBc0ZpKKAFzRmkooAXNGaSigBc0ZpKKAFzRmkooC4
+uaM0lFAXFzRmkooC4uaAaSigLjjVLUesf4/0q6apah1j/H+lTP4SKnwsTT/+Wn4f1q5VPT/+Wn4f
+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
+70FWajmhSeMpIMj9QfWkxPYqJItvdMv2p5AFO6NwScjng0sM0weFpUUJLnbhySCeec9anS0RX3M8
+kpAwPMbOPWmxWUUTqwaRtudis2Qv0pWZNmQLczvFG7rGEkcINpIPX606S6kj87YqsVlVACTzkfpU
+xs4zbrDlwFOQwPINItjEFK7pDlw5JOTkUWYWkVri5uhFIp8tHR1BK55B6YqWSeQLclwN0SD7pIBO
+M+tTSWkcok3Fv3hBOD0x0xTJLCKQnc8vzKFb5vvY7mlZhaRBLdvDLM5ORsTAJOAT3qeyujcBw20s
+p6pnBH405rOJy5Jb5go4OMY6Ee9SQxeUpHmSPnu7ZppO40nckoooqigooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKAHGqWo9Y/wAf6VeNU79CyK4529aU/hFU+FjNP/5a
+fh/WrlU9P/5afh/WrlKGxNP4QoooqiwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigB9Nb7p+lFFMop2X+sm/D+tW6KK
+iOxlT+EKKKKosKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigApRRRQNH/2Q==
+			</helperscreenshot>
+			<matchname>
+				InnerText
+			</matchname>
+			<matchvalue>
+				&#10;                        &#220;r&#252;n listenizden &#231;&#305;kar&#305;ld&#305;.
+                   &#32;
+			</matchvalue>
+		</validationitem>
+	</recorditems>
+	<repository
+	id="466ef776-24ab-4c74-a81d-214a080e976a"
+	name="HBTestRepository"
+	relativepath="HBTestRepository.rxrep">
+		<codegen
+		classname="HBTestRepository"
+		namespace="HBTest">
+		</codegen>
+		<rootfolder
+		id="bb970b4c-a5b4-4b82-b445-0fe51f2dbcca"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		RemovingFromWishlist.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
